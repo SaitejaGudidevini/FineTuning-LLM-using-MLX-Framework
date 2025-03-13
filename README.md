@@ -1,6 +1,6 @@
 # YouTube Comment Reply Generator
 
-This project creates an AI-powered system for automatically generating contextually appropriate replies to YouTube comments. It leverages Microsoft's DialoGPT model fine-tuned on real YouTube comment-reply pairs to produce human-like responses.
+An AI system that automatically generates contextual replies to YouTube comments using fine-tuned DialoGPT. Optimized for Apple Silicon with MPS acceleration, it processes real comment-reply pairs to create human-like responses. Features customizable generation parameters and helps content creators engage with audiences efficiently without manual intervention.
 
 The system is optimized for Apple Silicon using Metal Performance Shaders (MPS) acceleration and features a custom dataset implementation for handling comment-reply pairs. The model can be trained on your own YouTube comment data and deployed to automatically generate responses with configurable parameters for controlling reply style and tone.
 
